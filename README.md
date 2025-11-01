@@ -1,6 +1,6 @@
 # LinkedIn Post Generator
 
-This project is an open-source LinkedIn post generato. It not only generates LinkedIn posts but also ranks them based on a unique algorithm that considers factors like hashtags, emojis, URLs, and more.
+This project is an open-source LinkedIn post generator. It not only generates LinkedIn posts but also ranks them based on a unique algorithm that considers factors like hashtags, emojis, URLs, and more.
 
 ## Getting Started
 
