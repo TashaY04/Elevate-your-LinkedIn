@@ -1,7 +1,0 @@
-import streamlit as st
-
-st.set_page_config(page_title="Elevate your LinkedIn", layout="wide")
-
-st.title("🚀 Elevate Your LinkedIn Presence")
-st.write("Welcome! This app helps you generate engaging LinkedIn posts easily.")
-
