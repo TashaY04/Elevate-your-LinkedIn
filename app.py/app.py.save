@@ -1,12 +1,7 @@
 import streamlit as st
 
-st.set_page_config(page_title="Elevate your LinkedIn", page_icon="💼")
+st.set_page_config(page_title="Elevate your LinkedIn", layout="wide")
 
-st.title("🚀 Elevate Your LinkedIn")
-st.write("""
-Welcome to **Elevate your LinkedIn** — an AI-powered tool to enhance your LinkedIn posts and engagement.
-
-This Streamlit app is ready for deployment!  
-If you're seeing this message, your deployment worked successfully ✅
-""")
+st.title("🚀 Elevate Your LinkedIn Presence")
+st.write("Welcome! This app helps you generate engaging LinkedIn posts easily.")
 
