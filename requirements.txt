@@ -145,3 +145,6 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.14
 xgboost==3.0.2
+streamlit==1.45.1
+transformers==4.46.0
+torch
